@@ -8,7 +8,7 @@ Evenement is a event management website;It basically deals with the events of In
 
 To deploy this project run
 
-https://eventsite-page-41-90-d-a.netlify.app/
+https://evenement-mainpage-login-da.netlify.app
 
 
 
