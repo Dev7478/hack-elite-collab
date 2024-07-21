@@ -54,11 +54,11 @@ Contributions are always welcome!
 
 This project is presented by Team Code X Gigas
 
-Team members -
+Team members - ANUSHKA ROY , ABHIRAJ BOSE
 
  Team lead : DEBANSHU CHATTERJEE 
  
- Co workers : ANUSHKA ROY & ANJALI KUMARI YADAV & ABHIRAJ BOSE
+
 
 
 
